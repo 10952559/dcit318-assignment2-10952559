@@ -1,0 +1,14 @@
+C:\Assignment 2-10952559\IMovable\bin\Debug\net8.0\IMovable.exe
+C:\Assignment 2-10952559\IMovable\bin\Debug\net8.0\IMovable.deps.json
+C:\Assignment 2-10952559\IMovable\bin\Debug\net8.0\IMovable.runtimeconfig.json
+C:\Assignment 2-10952559\IMovable\bin\Debug\net8.0\IMovable.dll
+C:\Assignment 2-10952559\IMovable\bin\Debug\net8.0\IMovable.pdb
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\IMovable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\IMovable.AssemblyInfoInputs.cache
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\IMovable.AssemblyInfo.cs
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\IMovable.csproj.CoreCompileInputs.cache
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\IMovable.dll
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\refint\IMovable.dll
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\IMovable.pdb
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\IMovable.genruntimeconfig.cache
+C:\Assignment 2-10952559\IMovable\obj\Debug\net8.0\ref\IMovable.dll
