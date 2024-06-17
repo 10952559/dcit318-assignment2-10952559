@@ -1,0 +1,14 @@
+C:\Assignment 2-10952559\Shape\bin\Debug\net8.0\Shape.exe
+C:\Assignment 2-10952559\Shape\bin\Debug\net8.0\Shape.deps.json
+C:\Assignment 2-10952559\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+C:\Assignment 2-10952559\Shape\bin\Debug\net8.0\Shape.dll
+C:\Assignment 2-10952559\Shape\bin\Debug\net8.0\Shape.pdb
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\Shape.dll
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\refint\Shape.dll
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\Shape.pdb
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+C:\Assignment 2-10952559\Shape\obj\Debug\net8.0\ref\Shape.dll
